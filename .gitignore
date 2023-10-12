@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+
+# Distribution / packaging
+.Python
+build/
+downloads/
+lib/
+lib64/
+parts/
+
+
+# Environments
+.env
+.venv
+
+# files
+mysecret.txt
+top-secret.png
